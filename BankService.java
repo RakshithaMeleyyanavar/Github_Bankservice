@@ -27,7 +27,7 @@ public class BankService {
  // The main entry point
  public static void main(String[] args) {
  // Create an instance of the BankAccount class
- BankAccount acc = new BankAccount(5000);
+ BankAccount acc = new BankAccount(8000);
  
  System.out.println("Initial Balance: " + acc.getBalance());
  // Perform operations
